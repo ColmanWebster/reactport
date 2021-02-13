@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/reactport/static/css/main.b65e92f9.chunk.css",
-    "main.js": "/reactport/static/js/main.32b7e56c.chunk.js",
-    "main.js.map": "/reactport/static/js/main.32b7e56c.chunk.js.map",
+    "main.css": "/reactport/static/css/main.b8179143.chunk.css",
+    "main.js": "/reactport/static/js/main.1ea24d41.chunk.js",
+    "main.js.map": "/reactport/static/js/main.1ea24d41.chunk.js.map",
     "runtime-main.js": "/reactport/static/js/runtime-main.fe338ade.js",
     "runtime-main.js.map": "/reactport/static/js/runtime-main.fe338ade.js.map",
     "static/js/2.14fa95b4.chunk.js": "/reactport/static/js/2.14fa95b4.chunk.js",
     "static/js/2.14fa95b4.chunk.js.map": "/reactport/static/js/2.14fa95b4.chunk.js.map",
     "index.html": "/reactport/index.html",
-    "static/css/main.b65e92f9.chunk.css.map": "/reactport/static/css/main.b65e92f9.chunk.css.map",
+    "static/css/main.b8179143.chunk.css.map": "/reactport/static/css/main.b8179143.chunk.css.map",
     "static/js/2.14fa95b4.chunk.js.LICENSE.txt": "/reactport/static/js/2.14fa95b4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fe338ade.js",
     "static/js/2.14fa95b4.chunk.js",
-    "static/css/main.b65e92f9.chunk.css",
-    "static/js/main.32b7e56c.chunk.js"
+    "static/css/main.b8179143.chunk.css",
+    "static/js/main.1ea24d41.chunk.js"
   ]
 }
